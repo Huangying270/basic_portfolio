@@ -119,43 +119,35 @@ header {
 h1 {
     border-bottom: 3px solid gray;
 }
-.projects {
+.projects img {
     height: 150px;
     width: 150px;
     position: relative;
 }
 #hangman {
-    height: 150px;
-    width: 150px;
     float: left;
     margin-left: 10%;
     position: relative;
 }
 #rpg {
-    height: 150px;
-    width: 150px;
     float: right;
     margin-right: 10%;
     position: relative;
 }
 #rid {
-    height: 150px;
-    width: 150px;
     float: left;
     margin-left: 10%;
     position: relative;
 }
 #rps {
-    height: 150px;
-    width: 150px;
     float: right;
     margin-right: 10%;
     position: relative;
 }
 #trivia {
-    height: 150px;
-    width: 150px;
     float: left;
     margin-left: 10%;
-    position: relative;
+}
+.clear{
+    clear: both;
 }
