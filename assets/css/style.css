@@ -119,6 +119,11 @@ header {
 h1 {
     border-bottom: 3px solid gray;
 }
+.projects {
+    height: 150px;
+    width: 150px;
+    position: relative;
+}
 #hangman {
     height: 150px;
     width: 150px;
